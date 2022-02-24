@@ -343,7 +343,8 @@ bottom: 30px
     height: inherit;
     display: inline-block;
     width: 20%;
-
+height: 100%;
+    padding: 10px;
     margin-left: 10%;
     margin-right: 17%;
 
@@ -376,6 +377,7 @@ bottom: 30px
     display: inline-block;
 width: 50%;
 color: white;
+    
 
 }
 .socialbutton {
