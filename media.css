@@ -1,0 +1,148 @@
+@media (max-width:500px) {
+   .loge {
+       font-size: 18px;
+       
+   } 
+   .menu a {
+      
+   }
+   .menu {
+       padding: 10px;
+       
+   }
+   .menulist {
+       margin-left: 130px;
+   }
+   h1 {
+       font-size: 38px;
+       left: 35px;
+       top: 50px;
+   }
+   .readmore {
+       display: none;
+   }
+   .whiteblock p {
+       font-size: 30px;
+   }
+   .aa {
+       left: 180px;
+   }
+   .bb {
+       left: 180px;
+   }
+   form,.mckont {
+       width: 50%;
+       margin: auto;
+   }
+   .about {
+       padding-left:40px;
+
+   }
+   .about img{
+       display: none;
+   }
+   h2 {
+       font-size: 30px;
+
+   }
+   .aboutli {
+       font-size: 18px;
+   }
+   .menupizza h2{
+      
+       margin: 20px auto;
+       
+   }
+   .menupizza table {
+       width: 80%;
+       margin: auto;
+       
+   }
+   td {
+       font-size: 16px;
+width: 70%;
+   }
+   .tdvisible {
+       width: 10%;
+   }
+   .price {
+       font-size: 18px;
+   }
+   .mckont {
+       width: 70%;
+       margin-left: 0;
+       margin: auto;
+   }
+   form  {
+       width: 70%;
+       margin-left: 0;
+       margin: auto;
+   }
+   .piz {
+font-size: 36px;
+;
+   }
+   .promotion {
+       padding: 30px 60px;
+   }
+   .week {
+       font-size: 30px;
+   }
+   .Number {
+       font-size: 20px;
+       left: 60px;
+       
+   }
+   .aa {
+       font-size: 15px;
+       left: 120px;
+   }
+   .bb {
+       font-size: 15px;
+       left: 120px;
+   }
+   .promocod {
+       right: 30px;
+font-size: 15px;  
+bottom: 140px;
+}
+
+   .leftdelivery{
+     margin-left: 0;  
+     width: 40%;
+     padding: 50px 10px;
+   }
+   .leftdelivery p:nth-child(1){
+    font-size: 30px;
+  
+}
+.leftdelivery p:nth-child(2){
+   
+    font-size: 20px;
+}
+.leftdelivery p:nth-child(3){
+   
+    font-size: 20px;
+    
+}
+.leftdelivery p:nth-child(4){
+    
+    font-size: 12px;
+   
+}
+.leftdelivery p:nth-child(5){
+    font-size: 20px; 
+    
+}
+.rightdelivery {
+    width: 40%;
+}
+.up {
+    right: 10px;
+}
+.up a{
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+}
+}
